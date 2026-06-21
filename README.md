@@ -2,7 +2,7 @@
 A simple code for the 'text analysis' of a given PDF file.
 
 
-Text analysis, also known as text mining or text analytics, refers to the process of extracting meaningful information and insights from textual data. This is useful for, let's consider a real-life scenario where we are analyzing customer feedback for a product. We have a large data set of customer reviews in the form of strings, and we want to extract useful information from them.
+**Text analysis**, also known as text mining or text analytics, refers to the process of extracting meaningful information and insights from textual data. This is useful for, let's consider a real-life scenario where we are analyzing customer feedback for a product. We have a large data set of customer reviews in the form of strings, and we want to extract useful information from them.
 
 ## Goals
 We will use a PDF file to extract the text. In general, we could use any file format. Goal is finding:
