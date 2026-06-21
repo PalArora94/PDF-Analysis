@@ -11,7 +11,7 @@ We will use a PDF file to extract the text. In general, we could use any file fo
 
 ## Workflow
 The process involves **four** steps: <br>
-**i**. Extracting the text from the PDF file as a string <br>
+**i**. Extracting the text from the PDF file as a string. <br>
 <br>
 **ii**. Remove all punctuation marks, special characters, etc., and convert all the text to lowercase. This helps standardize the text and allows you to focus on the content rather than the specific letter casing.<br>
 <br>
